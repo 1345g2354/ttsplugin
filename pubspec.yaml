@@ -1,8 +1,8 @@
 name: ttsplugin
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: where of where <870867914@qq.com>
+homepage: https://github.com/1345g2354/ttsplugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
